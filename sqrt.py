@@ -29,7 +29,7 @@ def built_dictionary(data):
         else:
             dictionary[elemnt_stripped] += int(place_holder)
 
-            
+
 def print_sqrt():
     finall2 = 0
     for values in dictionary.values():
@@ -37,12 +37,6 @@ def print_sqrt():
         finall2 += finall
     print(finall2)
 
-# sqrt += math.sqrt(dictionary['23,21,5'])
-# sqrt += math.sqrt(dictionary['342,2,5'])
-# sqrt += math.sqrt(dictionary['32,1,777'])
-# sqrt += math.sqrt(dictionary['234,645,223'])
-# sqrt += math.sqrt(dictionary['243,646,2342'])
-# sqrt += math.sqrt(dictionary['6346,3434,222'])
-# sqrt += math.sqrt(dictionary['3,6,2'])
+
 
 
